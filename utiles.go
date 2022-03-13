@@ -1,4 +1,4 @@
-package HelloEdgarModd
+package gomodules
 
 import "fmt"
 
